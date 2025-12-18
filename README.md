@@ -11,7 +11,7 @@ Here you will find my code exercises, labs, and projects as I progress through m
 The repository is organized by learning modules and concepts:
 
 * **Module-02-AdvancedOOP**: Deep diving into C# memory management, OOP principles, and type systems.
-    * *Exercise 01*: Struct vs Class, Stack vs Heap, and Deep Copy implementation.
+    * [Exercise 01: Struct vs Class](.NET%20Framework/Module-02-AdvancedOOP/Exercise_01_StructVsClass/Program.cs) - Struct vs Class, Stack vs Heap, and Deep Copy.
       
 * *(More modules to be added as I progress)*
 
