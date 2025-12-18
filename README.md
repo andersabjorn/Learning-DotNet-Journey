@@ -12,7 +12,7 @@ The repository is organized by learning modules and concepts:
 
 * **Module-02-AdvancedOOP**: Deep diving into C# memory management, OOP principles, and type systems.
     * *Exercise 01*: Struct vs Class, Stack vs Heap, and Deep Copy implementation.
-    * *Exercise 02*: Static vs Non-static members.
+      
 * *(More modules to be added as I progress)*
 
 ## Tech Stack & Tools
