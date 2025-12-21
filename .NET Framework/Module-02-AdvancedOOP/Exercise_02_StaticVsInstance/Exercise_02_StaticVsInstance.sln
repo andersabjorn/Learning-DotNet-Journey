@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_02_StaticVsInstance", "Exercise_02_StaticVsInstance\Exercise_02_StaticVsInstance.csproj", "{0060A7D5-2327-47E7-B51B-0A484F317098}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_03_Inheritance", "..\Exercise_03_Inheritance\Exercise_03_Inheritance.csproj", "{AA1D5635-5AD6-4183-B254-C873BB127C01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{0060A7D5-2327-47E7-B51B-0A484F317098}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0060A7D5-2327-47E7-B51B-0A484F317098}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0060A7D5-2327-47E7-B51B-0A484F317098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1D5635-5AD6-4183-B254-C873BB127C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1D5635-5AD6-4183-B254-C873BB127C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1D5635-5AD6-4183-B254-C873BB127C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1D5635-5AD6-4183-B254-C873BB127C01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
